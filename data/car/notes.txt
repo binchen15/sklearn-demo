@@ -1,0 +1,4 @@
+car.data 
+	modified by adding the col head row
+	"buying,maint,door,persons,lug_boot,safety,class"
+
