@@ -1,4 +1,4 @@
-tut01.py
+### tut01.py
 	multi-variate linear regression
 
 	Data source:
@@ -9,13 +9,13 @@ tut01.py
 		student-por.csv
 			Portuguese grade
 
-tut02.py
+### tut02.py
 	classification
 
 	data source:
 		https://archive.ics.uci.edu/ml/datasets/car+evaluation
 
-tut03.py
+### tut03.py
 	SVM using sklearn
 	data source
 		sklearn.datasets.breast_cancer dataset
@@ -24,7 +24,7 @@ tut03.py
 		margins, soft margins
 		kernels (extra dimensions to separate objects)
 
-tut04.py
+### tut04.py
 	K-Means clustering (unsupervised learning)
 
 	sklearn.datasets.load_digits
